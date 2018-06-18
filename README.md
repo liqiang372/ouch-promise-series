@@ -1,4 +1,4 @@
-Ouch-Promise-Series
+Ouch-Promise-Series ![build-badge](https://travis-ci.org/liqiang372/ouch-promise-series.svg?branch=master)
 =============
 A small promise utility library that allows following promise have access to precedent/parent promises resolved value;
 
