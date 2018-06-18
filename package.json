@@ -1,0 +1,14 @@
+{
+  "name": "ouch-promise-series",
+  "version": "0.1.0",
+  "description": "a promise series utility that can access parent value",
+  "main": "index.js",
+  "author": "liqiang372",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
